@@ -1,6 +1,6 @@
 # Messy by Default
 
-A hands-on workshop on real, messy data — Amsterdam housing sales from [Funda](https://www.funda.nl/), for designers, developers, and product owners at CLEVER°FRANKE.
+A hands-on workshop on real, messy data — Amsterdam housing sales from [Funda](https://www.funda.nl/).
 
 You will load ~11,000 listings, decide what “clean” even means, look at what actually drives price, and build two honest dashboards that tell two different stories.
 
