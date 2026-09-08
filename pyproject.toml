@@ -1,0 +1,18 @@
+[project]
+name = "messy-by-default-workshop"
+version = "0.1.0"
+description = "Messy by Default — a hands-on workshop on real Amsterdam housing data from Funda"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "scikit-learn>=1.4",
+    "jupyterlab>=4.2",
+    "ipykernel>=6.29",
+]
+
+[tool.uv]
+package = false
