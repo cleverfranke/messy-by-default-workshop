@@ -12,6 +12,8 @@ dependencies = [
     "scikit-learn>=1.4",
     "jupyterlab>=4.2",
     "ipykernel>=6.29",
+    "plotly>=7.0.0",
+    "plotly-express>=0.4.1",
 ]
 
 [tool.uv]
